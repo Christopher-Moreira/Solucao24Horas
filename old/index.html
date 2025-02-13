@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Em Construção</title>
+    <style>
+        body {
+            background-color: #f0f0f0;
+            color: #333;
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            overflow: hidden;
+        }
+        .container {
+            text-align: center;
+            animation: moveDownUp 3s infinite ease-in-out;
+        }
+        h1 {
+            font-size: 48px;
+            margin-bottom: 10px;
+            animation: pulse 1.5s infinite;
+        }
+        p {
+            font-size: 24px;
+            margin-bottom: 20px;
+        }
+        .loader {
+            border: 16px solid #f0f0f0;
+            border-top: 16px solid #333;
+            border-radius: 50%;
+            width: 120px;
+            height: 120px;
+            animation: spin 2s linear infinite;
+            margin: 0 auto;
+        }
+
+        /* Animação de rotação para o loader */
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        /* Animação de pulso para o texto */
+        @keyframes pulse {
+            0%, 100% { transform: scale(1); }
+            50% { transform: scale(1.1); }
+        }
+
+        /* Animação de movimento suave para o container */
+        @keyframes moveDownUp {
+            0%, 100% { transform: translateY(0); }
+            50% { transform: translateY(10px); }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Em Construção</h1>
+        <p>Estamos trabalhando para trazer novidades. Volte em breve!</p>
+        <div class="loader"></div>
+    </div>
+</body>
+</html>
