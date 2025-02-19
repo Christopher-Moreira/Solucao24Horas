@@ -1,0 +1,9 @@
+SELECT setval('carteira_id_seq', coalesce(max(id),0) + 1, false) FROM carteira;
+SELECT setval('contato_observacao_id_seq', coalesce(max(id),0) + 1, false) FROM contato_observacao;
+SELECT setval('email_id_seq', coalesce(max(id),0) + 1, false) FROM email;
+SELECT setval('gestao_de_carteira_id_seq', coalesce(max(id),0) + 1, false) FROM gestao_de_carteira;
+SELECT setval('leads_id_seq', coalesce(max(id),0) + 1, false) FROM leads;
+SELECT setval('leads_api_id_seq', coalesce(max(id),0) + 1, false) FROM leads_api;
+SELECT setval('leads_gov_id_servidor_portal_seq', coalesce(max(id_servidor_portal),0) + 1, false) FROM leads_gov;
+SELECT setval('parentes_id_seq', coalesce(max(id),0) + 1, false) FROM parentes;
+SELECT setval('participantes_id_seq', coalesce(max(id),0) + 1, false) FROM participantes;
