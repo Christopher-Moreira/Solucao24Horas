@@ -1328,3 +1328,59 @@ Stack trace:
 [11-Feb-2025 19:24:24 America/Sao_Paulo] PHP Warning:  Undefined variable $button_cadastrar in C:\xampp\htdocs\Solucao24Horas\app\control\basico\CarteiraHeaderList.php on line 173
 [11-Feb-2025 19:36:15 America/Sao_Paulo] PHP Warning:  Undefined array key "responsavel_id" in C:\xampp\htdocs\Solucao24Horas\app\control\basico\Mestre_DetalheTeste.php on line 29
 [11-Feb-2025 19:36:15 America/Sao_Paulo] PHP Warning:  Undefined array key "responsavel_id" in C:\xampp\htdocs\Solucao24Horas\app\control\basico\Mestre_DetalheTeste.php on line 131
+[13-Feb-2025 16:35:05 America/Sao_Paulo] PHP Warning:  Undefined array key "responsavel_id" in C:\xampp\htdocs\Solucao24Horas\app\control\basico\Mestre_DetalheTeste.php on line 29
+[13-Feb-2025 16:35:05 America/Sao_Paulo] PHP Warning:  Undefined array key "responsavel_id" in C:\xampp\htdocs\Solucao24Horas\app\control\basico\Mestre_DetalheTeste.php on line 131
+[13-Feb-2025 17:09:45 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected token "{", expecting ")" in C:\xampp\htdocs\Solucao24Horas\app\control\basico\CarteiraHeaderList.php on line 68
+[13-Feb-2025 17:09:59 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected token "{", expecting ")" in C:\xampp\htdocs\Solucao24Horas\app\control\basico\CarteiraHeaderList.php on line 68
+[13-Feb-2025 21:47:48 America/Sao_Paulo] PHP Warning:  Undefined array key "responsavel_id" in C:\xampp\htdocs\Solucao24Horas\app\control\basico\Mestre_DetalheTeste.php on line 29
+[13-Feb-2025 21:47:48 America/Sao_Paulo] PHP Warning:  Undefined array key "responsavel_id" in C:\xampp\htdocs\Solucao24Horas\app\control\basico\Mestre_DetalheTeste.php on line 131
+[17-Feb-2025 02:25:06 America/Sao_Paulo] PHP Warning:  Undefined variable $objects in C:\xampp\htdocs\Solucao24Horas\app\control\basico\CarteiraHeaderList.php on line 567
+[17-Feb-2025 03:01:39 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected fully qualified name "\n", expecting ")" in C:\xampp\htdocs\Solucao24Horas\app\control\basico\CarteiraHeaderList.php on line 182
+[17-Feb-2025 03:09:33 America/Sao_Paulo] PHP Warning:  Undefined variable $cofnirm in C:\xampp\htdocs\Solucao24Horas\app\control\basico\CarteiraHeaderList.php on line 191
+[17-Feb-2025 03:56:17 America/Sao_Paulo] PHP Warning:  Undefined array key "responsavel_id" in C:\xampp\htdocs\Solucao24Horas\app\control\basico\CarteiraHeaderList.php on line 36
+[17-Feb-2025 03:57:52 America/Sao_Paulo] PHP Warning:  Undefined array key "responsavel_id" in C:\xampp\htdocs\Solucao24Horas\app\control\basico\CarteiraHeaderList.php on line 58
+[17-Feb-2025 03:58:10 America/Sao_Paulo] PHP Warning:  Undefined array key "responsavel_id" in C:\xampp\htdocs\Solucao24Horas\app\control\basico\CarteiraHeaderList.php on line 58
+[17-Feb-2025 03:58:13 America/Sao_Paulo] PHP Warning:  Undefined array key "responsavel_id" in C:\xampp\htdocs\Solucao24Horas\app\control\basico\CarteiraHeaderList.php on line 58
+[17-Feb-2025 04:00:14 America/Sao_Paulo] PHP Warning:  Undefined array key "responsavel_id" in C:\xampp\htdocs\Solucao24Horas\app\control\basico\CarteiraHeaderList.php on line 58
+[17-Feb-2025 04:01:39 America/Sao_Paulo] PHP Warning:  Undefined array key "responsavel_id" in C:\xampp\htdocs\Solucao24Horas\app\control\basico\CarteiraHeaderList.php on line 58
+[17-Feb-2025 04:17:29 America/Sao_Paulo] PHP Warning:  Undefined array key "responsavel_id" in C:\xampp\htdocs\Solucao24Horas\app\control\basico\CarteiraHeaderList.php on line 29
+[17-Feb-2025 04:17:51 America/Sao_Paulo] PHP Warning:  Undefined array key "responsavel_id" in C:\xampp\htdocs\Solucao24Horas\app\control\basico\CarteiraHeaderList.php on line 31
+[18-Feb-2025 23:29:52 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected identifier "onChangeDropdown", expecting ")" in C:\xampp\htdocs\Solucao24Horas\app\control\basico\CarteiraHeaderList.php on line 200
+[19-Feb-2025 00:02:58 America/Sao_Paulo] PHP Warning:  Undefined array key "dropdown_responsavel_id" in C:\xampp\htdocs\Solucao24Horas\app\control\basico\CarteiraHeaderList.php on line 248
+[19-Feb-2025 00:04:01 America/Sao_Paulo] PHP Warning:  Undefined array key "dropdown_responsavel_id" in C:\xampp\htdocs\Solucao24Horas\app\control\basico\CarteiraHeaderList.php on line 248
+[19-Feb-2025 00:04:01 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method TApplication::executeJavaScript() in C:\xampp\htdocs\Solucao24Horas\app\control\basico\CarteiraHeaderList.php:259
+Stack trace:
+#0 [internal function]: CarteiraHeaderList::onChangeDropdown(Array)
+#1 C:\xampp\htdocs\Solucao24Horas\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\Solucao24Horas\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\Solucao24Horas\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\Solucao24Horas\app\control\basico\CarteiraHeaderList.php on line 259
+[19-Feb-2025 00:04:02 America/Sao_Paulo] PHP Warning:  Undefined array key "dropdown_responsavel_id" in C:\xampp\htdocs\Solucao24Horas\app\control\basico\CarteiraHeaderList.php on line 248
+[19-Feb-2025 00:04:02 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method TApplication::executeJavaScript() in C:\xampp\htdocs\Solucao24Horas\app\control\basico\CarteiraHeaderList.php:259
+Stack trace:
+#0 [internal function]: CarteiraHeaderList::onChangeDropdown(Array)
+#1 C:\xampp\htdocs\Solucao24Horas\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\Solucao24Horas\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\Solucao24Horas\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\Solucao24Horas\app\control\basico\CarteiraHeaderList.php on line 259
+[19-Feb-2025 00:04:02 America/Sao_Paulo] PHP Warning:  Undefined array key "dropdown_responsavel_id" in C:\xampp\htdocs\Solucao24Horas\app\control\basico\CarteiraHeaderList.php on line 248
+[19-Feb-2025 00:04:02 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method TApplication::executeJavaScript() in C:\xampp\htdocs\Solucao24Horas\app\control\basico\CarteiraHeaderList.php:259
+Stack trace:
+#0 [internal function]: CarteiraHeaderList::onChangeDropdown(Array)
+#1 C:\xampp\htdocs\Solucao24Horas\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\Solucao24Horas\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\Solucao24Horas\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\Solucao24Horas\app\control\basico\CarteiraHeaderList.php on line 259
+[19-Feb-2025 00:04:03 America/Sao_Paulo] PHP Warning:  Undefined array key "dropdown_responsavel_id" in C:\xampp\htdocs\Solucao24Horas\app\control\basico\CarteiraHeaderList.php on line 248
+[19-Feb-2025 00:04:03 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method TApplication::executeJavaScript() in C:\xampp\htdocs\Solucao24Horas\app\control\basico\CarteiraHeaderList.php:259
+Stack trace:
+#0 [internal function]: CarteiraHeaderList::onChangeDropdown(Array)
+#1 C:\xampp\htdocs\Solucao24Horas\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\Solucao24Horas\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\Solucao24Horas\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\Solucao24Horas\app\control\basico\CarteiraHeaderList.php on line 259
+[19-Feb-2025 00:21:54 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected token "public" in C:\xampp\htdocs\Solucao24Horas\app\control\basico\CarteiraHeaderList.php on line 248
