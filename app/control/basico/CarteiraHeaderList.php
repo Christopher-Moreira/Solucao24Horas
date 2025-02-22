@@ -1,5 +1,6 @@
 <?php
 
+use Adianti\Database\TCriteria;
 use Adianti\Widget\Dialog\TMessage;
 use Adianti\Widget\Form\TButton;
 use Adianti\Widget\Wrapper\TDBCombo;
@@ -29,9 +30,7 @@ class CarteiraHeaderList extends TPage
         
         parent::__construct();
 
-        if (isset($param['responsavel_id'])) {
-            $this->responsavel_id = $param['responsavel_id'];
-        }
+       
         
 
 
@@ -195,110 +194,199 @@ class CarteiraHeaderList extends TPage
         $dropdown_button_exportar->addPostAction( "XML", new TAction(['CarteiraHeaderList', 'onExportXml'],['static' => 1]), self::$formName, 'far:file-code #95a5a6' );
 
         
-        $dropdown_escolha = new TDBCombo('dropdown_responsavel_id', 'api', 'Carteira', 'responsavel_id', '{nome}');
+///////////////////////////////////////////////////Adiciona a escolha de movimentacao na Lista///////////////////////////////////////////////////
+$this->form = new BootstrapFormBuilder(self::$formName);
 
-        $dropdown_escolha->setSize('350');
-        $dropdown_escolha->setChangeAction(new TAction([$this, 'onChangeDropdown']));
-        //$dropdown_escolha->setChangeAction(new TAction([get_called_class(), 'onChangeDropdown']));
-        
-        if (isset($_GET['responsavel_id'])) {
-            $dropdown_escolha->setValue($_GET['responsavel_id']);
-        }
+$criteria_carteira = new TCriteria();
 
-        $button_salvar = new TButton('button_salvar');
-        $button_salvar->setAction(new TAction([$this, 'onMovimentar']));
-        $button_salvar->addStyleClass('btn btn-primary'); // Adiciona uma classe de estilo para o botão
-        $button_salvar->setImage('fas:save'); 
-        
-        $label_carteiras = new TLabel('Mover Carteiras Selecionadas  <i class="fas fa-exchange-alt"></i>');
-        $label_carteiras->setFontSize('12px');  
+// Dropdown de Carteiras
+$dropdown = new TDBCombo('carteira', 'api', 'Carteira', 'responsavel_id', '{nome}', 'nome', $criteria_carteira);
+$dropdown->setSize(250);
+$dropdown->setChangeAction(new TAction([$this, 'onChangeDropDown']));
 
-     
-        
-        $head_left_actions->add($label_carteiras);
-        $head_left_actions->add($dropdown_escolha);
-        $head_left_actions->add($button_salvar);
-      
-        $this->datagrid_form->setFields([$dropdown_escolha, $button_salvar]);
-        //$dropdown_escolha->setPullSide('left');
-        //$dropdown_escolha->setButtonClass('btn btn-default waves-effect dropdown-toggle');
-      
-    // $head_left_actions->add($button_cadastrar);
-
-        $head_right_actions->add($dropdown_button_exportar);
+// Botão Salvar
+$button_salvar = new TButton('button_salvar');
+$button_salvar->setAction(new TAction([$this, 'onMovimentar']));
+$button_salvar->addStyleClass('btn btn-primary');
+$button_salvar->setImage('fas:exchange-alt'); // Ícone alterado
+$button_salvar->setLabel('&nbsp;&nbsp;Trocar');
 
 
-        // vertical box container
-        $container = new TVBox;
-        $container->style = 'width: 100%';
-        if(empty($param['target_container']))
-        {
-            $container->add(TBreadCrumb::create(["Básico","Lista  de Carteiras"]));
-        }
+$hidden_selected = new THidden('selected_ids');
+$this->form->addFields([$hidden_selected]);
 
-        $container->add($panel);
 
-        parent::add($container);
+TScript::create('
+    $(document).on("change", "input[name=\'check[]\']", function() {
+        var selected = [];
+        $("input[name=\'check[]\']:checked").each(function() {
+            selected.push($(this).val());
+        });
+        $("#formList_Carteira input[name=\'selected_ids\']").val(selected.join(","));
+    });
+');
 
-    }
-    // Método para mudar a URL de acordo com a escolha feita no dropdown
-public static function onChangeDropdown($param)
-{
+$label = new TLabel("Responsavel", null, '14px', null);
+$label->setProperty('style', 'margin-right: 70px;'); // Método correto
+
+// Adiciona ao formulário
+$this->form->addFields(
+    [$label], 
+    [$dropdown, $button_salvar]
+);
+
+$this->form->setData(TSession::getValue(__CLASS__ . '_filter_data'));
+
+
+$mainContainer = new TVBox;
+$mainContainer->style = 'width: 100%';
+
+
+if(empty($param['target_container'])) {
+    $mainContainer->add(TBreadCrumb::create(["Básico","Lista de Carteiras"]));
+}
+
+$formContainer = new TVBox;
+$formContainer->add($this->form);
+$mainContainer->add($formContainer);
+
+
+$mainContainer->add($panel);
+
+parent::add($mainContainer);
+
+$label_carteiras = new TLabel('Mover Carteiras Selecionadas  <i class="fas fa-exchange-alt"></i>');
+$label_carteiras->setFontSize('12px');
+$head_right_actions->add($dropdown_button_exportar);
+
 
 }
+    
+    public static function onChangeDropdown($param)
+    {
+        echo '<pre>';
+        print_r($param);
+        echo '</pre>';
+        exit;
+    }
+    
 
     
 public function onMovimentar($param)
 {
-    // Captura o responsavel_id diretamente do parâmetro da URL
-    $responsavel_id = isset($_GET['responsavel_id']) ? $_GET['responsavel_id'] :   8;
-
-    // Verifica se o responsavel_id foi passado na URL
-    if (!$responsavel_id) {
-        new TMessage('error', 'O responsável não foi especificado na URL.');
-        return;
-    }
-
-    // Captura os IDs das carteiras selecionadas
-    $selected_ids = isset($param['check']) ? $param['check'] : [];
-
-    if (empty($selected_ids)) {
-        new TMessage('error', 'Nenhuma carteira selecionada.');
-        return;
-    }
-
     try {
-        // Iniciar uma transação
-        TTransaction::open(self::$database);
-
-        // Atualizar as carteiras selecionadas com o novo responsável
-        foreach ($selected_ids as $carteira_id) {
-            $carteira = Carteira::find($carteira_id);
-            if ($carteira) {
-                $carteira->responsavel_id = $responsavel_id; // Usa o responsavel_id da URL
-                $carteira->store(); // Salvar a carteira no banco
-            }
+        $new_responsavel_id = $param['carteira'] ?? null;
+        $selected_ids = isset($param['selected_ids']) ? explode(',', $param['selected_ids']) : [];
+        
+        if (empty($new_responsavel_id)) {
+            throw new Exception("Selecione um responsável no dropdown");
         }
-
-        // Commit da transação
+        
+        if (empty($selected_ids)) {
+            throw new Exception("Selecione pelo menos uma carteira");
+        }
+        
+        TTransaction::open(self::$database);
+        
+        foreach ($selected_ids as $id) {
+            $carteira = new Carteira($id);
+            $carteira->responsavel_id = $new_responsavel_id;
+            $carteira->store();
+        }
+        
         TTransaction::close();
-
-        // Mensagem de sucesso
-        new TMessage('info', 'As carteiras selecionadas foram movidas com sucesso!');
-
-       
+        
+        $this->onReload();
+        new TMessage('info', 'Responsáveis atualizados com sucesso');
+        TScript::create('setTimeout(function() { location.reload(); }, 0);');
     } catch (Exception $e) {
-        // Rollback em caso de erro
+        new TMessage('error', $e->getMessage());
         TTransaction::rollback();
-
-        // Exibir mensagem de erro
-        new TMessage('error', 'Erro ao mover as carteiras: ' . $e->getMessage());
     }
 }
 
 
+public function onReload($param = NULL)
+    {
+        
+        try
+        {
+            
+          
+            // open a transaction with database 'api'
+            TTransaction::open(self::$database);
+
+            // creates a repository for Carteira
+            $repository = new TRepository(self::$activeRecord);
+            
+            if ($stored_criteria = TSession::getValue(__CLASS__.'_filter_criteria')) 
+            {
+                $this->filter_criteria = $stored_criteria;
+            }
+            
+            $criteria = clone $this->filter_criteria;
 
 
+        
+
+            if (empty($param['order']))
+            {
+                $param['order'] = 'id';    
+            }
+            if (empty($param['direction']))
+            {
+                $param['direction'] = 'desc';
+            }
+
+            $criteria->setProperties($param); // order, offset
+            $criteria->setProperty('limit', $this->limit);
+
+            if($filters = TSession::getValue(__CLASS__.'_filters'))
+            {
+                foreach ($filters as $filter) 
+                {
+                    $criteria->add($filter);       
+                }
+            }
+
+            // load the objects according to criteria
+            $objects = $repository->load($criteria, FALSE);
+
+            $this->datagrid->clear();
+            if ($objects)
+            {
+                foreach ($objects as $object)
+                {
+                    $object->check = new TCheckButton("check_{$object->id}");
+                    $this->datagrid_form->addField($object->check); // Importante!
+    
+                    $row = $this->datagrid->addItem($object);
+                    $row->id = "row_{$object->id}";
+                }
+            }   
+
+            // reset the criteria for record count
+            $criteria->resetProperties();
+            $count= $repository->count($criteria);
+
+            $this->pageNavigation->setCount($count); // count of records
+            $this->pageNavigation->setProperties($param); // order, page
+            $this->pageNavigation->setLimit($this->limit); // limit
+
+            // close the transaction
+            TTransaction::close();
+            $this->loaded = true;   
+
+            return $objects;
+        }
+        catch (Exception $e) // in case of exception
+        {
+            // shows the exception error message
+            new TMessage('error', $e->getMessage());
+            // undo all pending operations
+            TTransaction::rollback();
+        }
+    }
 
     
     public function onDelete($param = null) 
@@ -661,82 +749,7 @@ public function onMovimentar($param)
     /**
      * Load the datagrid with data
      */
-    public function onReload($param = NULL)
-    {
-        
-        try
-        {
-            
-          
-            // open a transaction with database 'api'
-            TTransaction::open(self::$database);
-
-            // creates a repository for Carteira
-            $repository = new TRepository(self::$activeRecord);
-
-            $criteria = clone $this->filter_criteria;
-
-        
-
-            if (empty($param['order']))
-            {
-                $param['order'] = 'id';    
-            }
-            if (empty($param['direction']))
-            {
-                $param['direction'] = 'desc';
-            }
-
-            $criteria->setProperties($param); // order, offset
-            $criteria->setProperty('limit', $this->limit);
-
-            if($filters = TSession::getValue(__CLASS__.'_filters'))
-            {
-                foreach ($filters as $filter) 
-                {
-                    $criteria->add($filter);       
-                }
-            }
-
-            // load the objects according to criteria
-            $objects = $repository->load($criteria, FALSE);
-
-            $this->datagrid->clear();
-            if ($objects)
-            {
-                foreach ($objects as $object)
-                {
-                    $object->check = new TCheckButton("check_{$object->id}");
-                    $this->datagrid_form->addField($object->check); // Importante!
     
-                    $row = $this->datagrid->addItem($object);
-                    $row->id = "row_{$object->id}";
-                }
-            }   
-
-            // reset the criteria for record count
-            $criteria->resetProperties();
-            $count= $repository->count($criteria);
-
-            $this->pageNavigation->setCount($count); // count of records
-            $this->pageNavigation->setProperties($param); // order, page
-            $this->pageNavigation->setLimit($this->limit); // limit
-
-            // close the transaction
-            TTransaction::close();
-            $this->loaded = true;   
-
-            return $objects;
-        }
-        catch (Exception $e) // in case of exception
-        {
-            // shows the exception error message
-            new TMessage('error', $e->getMessage());
-            // undo all pending operations
-            TTransaction::rollback();
-        }
-    }
-
     public function onShow($param = null)
     {
 

@@ -910,6 +910,7 @@
             }
 
             public function onSave($param) {
+                
                 try
         {
             TTransaction::open(self::$database); // open a transaction
@@ -957,6 +958,7 @@
             }   
 /*mudei aqui*/
 public function onEdit($param) {
+    
                 // Verifica se o ID do lead foi passado
                 if (isset($param['id'])) {
                     $lead_id = $param['id'];
@@ -1288,6 +1290,7 @@ public static function onLimparParametros($param) {
         
 
             public function onReload($param = null) {
+                
                 // Verifica se o parâmetro 'responsavel_id' foi passado
                 if (isset($param['responsavel_id'])) {
                     $carteira_id = $param['responsavel_id'];
