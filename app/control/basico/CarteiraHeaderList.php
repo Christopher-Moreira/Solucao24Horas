@@ -271,7 +271,6 @@ $head_right_actions->add($dropdown_button_exportar);
     }
     
 
-    
 public function onMovimentar($param)
 {
     try {
@@ -297,14 +296,12 @@ public function onMovimentar($param)
         TTransaction::close();
         
         $this->onReload();
-        new TMessage('info', 'Responsáveis atualizados com sucesso');
+      
         TScript::create('setTimeout(function() { location.reload(); }, 0);');
     } catch (Exception $e) {
-        new TMessage('error', $e->getMessage());
-        TTransaction::rollback();
+       
     }
 }
-
 
 public function onReload($param = NULL)
     {

@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <menu>
   <menuitem label="Leads">
-    <icon>fas:archive fa-fw fa-fw</icon>
+    <icon>fas:address-card fa-fw</icon>
+
     <menu>
       <menuitem label="Detalhe Carteira">
         <action>DetalheCarteira#method=onShow</action>
-        <icon>fas:balance-scale fa-fw</icon>
+      <icon>fas:wallet fa-fw</icon>
       </menuitem>
       <menuitem label="Lista de Observações">
         <action>Pesquisa</action>

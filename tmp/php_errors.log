@@ -1384,3 +1384,43 @@ Stack trace:
 #4 {main}
   thrown in C:\xampp\htdocs\Solucao24Horas\app\control\basico\CarteiraHeaderList.php on line 259
 [19-Feb-2025 00:21:54 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected token "public" in C:\xampp\htdocs\Solucao24Horas\app\control\basico\CarteiraHeaderList.php on line 248
+[21-Feb-2025 20:34:14 America/Sao_Paulo] PHP Warning:  Undefined array key "dropdown_responsavel_id" in C:\xampp\htdocs\Solucao24Horas\app\control\basico\CarteiraHeaderList.php on line 247
+[21-Feb-2025 20:34:16 America/Sao_Paulo] PHP Warning:  Undefined array key "dropdown_responsavel_id" in C:\xampp\htdocs\Solucao24Horas\app\control\basico\CarteiraHeaderList.php on line 247
+[21-Feb-2025 20:34:17 America/Sao_Paulo] PHP Warning:  Undefined array key "dropdown_responsavel_id" in C:\xampp\htdocs\Solucao24Horas\app\control\basico\CarteiraHeaderList.php on line 247
+[21-Feb-2025 20:34:18 America/Sao_Paulo] PHP Warning:  Undefined array key "dropdown_responsavel_id" in C:\xampp\htdocs\Solucao24Horas\app\control\basico\CarteiraHeaderList.php on line 247
+[21-Feb-2025 20:34:38 America/Sao_Paulo] PHP Warning:  Undefined array key "dropdown_responsavel_id" in C:\xampp\htdocs\Solucao24Horas\app\control\basico\CarteiraHeaderList.php on line 247
+[21-Feb-2025 20:34:39 America/Sao_Paulo] PHP Warning:  Undefined array key "dropdown_responsavel_id" in C:\xampp\htdocs\Solucao24Horas\app\control\basico\CarteiraHeaderList.php on line 247
+[21-Feb-2025 20:40:17 America/Sao_Paulo] PHP Warning:  Undefined array key "dropdown_responsavel_id" in C:\xampp\htdocs\Solucao24Horas\app\control\basico\CarteiraHeaderList.php on line 249
+[21-Feb-2025 20:40:18 America/Sao_Paulo] PHP Warning:  Undefined array key "dropdown_responsavel_id" in C:\xampp\htdocs\Solucao24Horas\app\control\basico\CarteiraHeaderList.php on line 249
+[21-Feb-2025 20:40:23 America/Sao_Paulo] PHP Warning:  Undefined array key "dropdown_responsavel_id" in C:\xampp\htdocs\Solucao24Horas\app\control\basico\CarteiraHeaderList.php on line 249
+[21-Feb-2025 20:40:25 America/Sao_Paulo] PHP Warning:  Undefined array key "dropdown_responsavel_id" in C:\xampp\htdocs\Solucao24Horas\app\control\basico\CarteiraHeaderList.php on line 249
+[21-Feb-2025 20:40:26 America/Sao_Paulo] PHP Warning:  Undefined array key "dropdown_responsavel_id" in C:\xampp\htdocs\Solucao24Horas\app\control\basico\CarteiraHeaderList.php on line 249
+[21-Feb-2025 20:40:28 America/Sao_Paulo] PHP Warning:  Undefined array key "dropdown_responsavel_id" in C:\xampp\htdocs\Solucao24Horas\app\control\basico\CarteiraHeaderList.php on line 249
+[21-Feb-2025 20:40:29 America/Sao_Paulo] PHP Warning:  Undefined array key "dropdown_responsavel_id" in C:\xampp\htdocs\Solucao24Horas\app\control\basico\CarteiraHeaderList.php on line 249
+[21-Feb-2025 21:23:48 America/Sao_Paulo] PHP Warning:  Array to string conversion in C:\xampp\htdocs\Solucao24Horas\app\control\basico\CarteiraHeaderList.php on line 262
+[21-Feb-2025 21:23:53 America/Sao_Paulo] PHP Warning:  Array to string conversion in C:\xampp\htdocs\Solucao24Horas\app\control\basico\CarteiraHeaderList.php on line 262
+[21-Feb-2025 23:01:18 America/Sao_Paulo] PHP Warning:  Undefined array key "dropdown_escolha" in C:\xampp\htdocs\Solucao24Horas\app\control\basico\CarteiraHeaderList.php on line 240
+[21-Feb-2025 23:01:21 America/Sao_Paulo] PHP Warning:  Undefined array key "dropdown_escolha" in C:\xampp\htdocs\Solucao24Horas\app\control\basico\CarteiraHeaderList.php on line 240
+[21-Feb-2025 23:11:15 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected token "/", expecting "function" or "const" in C:\xampp\htdocs\Solucao24Horas\app\control\basico\CarteiraHeaderList.php on line 236
+[21-Feb-2025 23:38:02 America/Sao_Paulo] PHP Warning:  Undefined variable $selected_value in C:\xampp\htdocs\Solucao24Horas\app\control\basico\CarteiraHeaderList.php on line 199
+[22-Feb-2025 17:24:50 America/Sao_Paulo] PHP Warning:  Undefined variable $criteria_carteira in C:\xampp\htdocs\Solucao24Horas\app\control\basico\CarteiraHeaderList.php on line 201
+[22-Feb-2025 17:25:28 America/Sao_Paulo] PHP Warning:  Undefined variable $criteria_carteira in C:\xampp\htdocs\Solucao24Horas\app\control\basico\CarteiraHeaderList.php on line 201
+[22-Feb-2025 17:44:45 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected token "if" in C:\xampp\htdocs\Solucao24Horas\app\control\basico\CarteiraHeaderList.php on line 225
+[22-Feb-2025 18:49:54 America/Sao_Paulo] PHP Fatal error:  Uncaught ReflectionException: Class "WelcomeView" does not exist in C:\xampp\htdocs\Solucao24Horas\lib\adianti\core\AdiantiCoreApplication.php:59
+Stack trace:
+#0 C:\xampp\htdocs\Solucao24Horas\lib\adianti\core\AdiantiCoreApplication.php(59): ReflectionClass->__construct('WelcomeView')
+#1 C:\xampp\htdocs\Solucao24Horas\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#2 C:\xampp\htdocs\Solucao24Horas\engine.php(108): TApplication::run()
+#3 {main}
+  thrown in C:\xampp\htdocs\Solucao24Horas\lib\adianti\core\AdiantiCoreApplication.php on line 59
+[24-Mar-2025 02:04:35 America/Sao_Paulo] PHP Warning:  Undefined array key "version" in C:\xampp\htdocs\Solucao24Horas\app\control\WelcomeView.class.php on line 122
+[24-Mar-2025 02:04:35 America/Sao_Paulo] PHP Warning:  Undefined array key "date" in C:\xampp\htdocs\Solucao24Horas\app\control\WelcomeView.class.php on line 123
+[24-Mar-2025 02:04:35 America/Sao_Paulo] PHP Warning:  Undefined array key "items" in C:\xampp\htdocs\Solucao24Horas\app\control\WelcomeView.class.php on line 128
+[24-Mar-2025 02:04:35 America/Sao_Paulo] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\Solucao24Horas\app\control\WelcomeView.class.php on line 128
+[24-Mar-2025 02:27:10 America/Sao_Paulo] PHP Fatal error:  Uncaught ReflectionException: Class "LoginForm" does not exist in C:\xampp\htdocs\Solucao24Horas\lib\adianti\core\AdiantiCoreApplication.php:59
+Stack trace:
+#0 C:\xampp\htdocs\Solucao24Horas\lib\adianti\core\AdiantiCoreApplication.php(59): ReflectionClass->__construct('LoginForm')
+#1 C:\xampp\htdocs\Solucao24Horas\engine.php(61): Adianti\Core\AdiantiCoreApplication::run('0')
+#2 C:\xampp\htdocs\Solucao24Horas\engine.php(108): TApplication::run()
+#3 {main}
+  thrown in C:\xampp\htdocs\Solucao24Horas\lib\adianti\core\AdiantiCoreApplication.php on line 59

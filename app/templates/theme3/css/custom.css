@@ -686,3 +686,23 @@ div#adianti_tab_content:empty {
 .inner-icon-container {
     position: relative;
 }
+.card {
+    transition: transform 0.2s ease;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+}
+
+.btn-action {
+    padding: 12px 25px;
+    border-radius: 25px;
+}
+
+.text-primary {
+    color: #3498db !important;
+}
+
+.bg-primary {
+    background-color: #3498db !important;
+}
