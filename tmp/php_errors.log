@@ -1,0 +1,1127 @@
+[21-Oct-2024 23:29:07 America/Sao_Paulo] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 4096 bytes) in /home3/sol60829/public_html/lib/adianti/widget/datagrid/TDataGrid.php on line 955
+[21-Oct-2024 23:32:18 America/Sao_Paulo] PHP Warning:  Undefined array key "mail_support" in /home3/sol60829/public_html/app/control/admin/SystemSupportForm.php on line 80
+[21-Oct-2024 23:32:18 America/Sao_Paulo] PHP Warning:  Undefined array key "mail_from" in /home3/sol60829/public_html/app/lib/util/MailService.class.php on line 28
+[29-Oct-2024 10:07:53 America/Sao_Paulo] PHP Warning:  Undefined array key "responsavel_id" in /home3/sol60829/public_html/app/control/basico/Mestre_DetalheTeste.php on line 81
+[29-Oct-2024 10:11:33 America/Sao_Paulo] PHP Warning:  Undefined array key "responsavel_id" in /home3/sol60829/public_html/app/control/basico/Mestre_DetalheTeste.php on line 81
+[29-Oct-2024 10:17:18 America/Sao_Paulo] PHP Warning:  Undefined array key "responsavel_id" in /home3/sol60829/public_html/app/control/basico/Mestre_DetalheTeste.php on line 81
+[29-Oct-2024 10:21:46 America/Sao_Paulo] PHP Warning:  Undefined array key "responsavel_id" in /home3/sol60829/public_html/app/control/basico/Mestre_DetalheTeste.php on line 81
+[29-Oct-2024 11:51:32 America/Sao_Paulo] PHP Warning:  Undefined array key "responsavel_id" in /home3/sol60829/public_html/app/control/basico/Mestre_DetalheTDados.php on line 81
+[29-Oct-2024 11:51:55 America/Sao_Paulo] PHP Warning:  Undefined array key "responsavel_id" in /home3/sol60829/public_html/app/control/basico/Mestre_DetalheTDados.php on line 81
+[29-Oct-2024 11:53:42 America/Sao_Paulo] PHP Warning:  DOMDocument::createElement(): unterminated entity reference resposnsavel_id=1&amp;carteira_id=1 in /home3/sol60829/public_html/app/control/admin/SystemMenuEditor.php on line 149
+[29-Oct-2024 11:54:38 America/Sao_Paulo] PHP Warning:  Undefined array key "responsavel_id" in /home3/sol60829/public_html/app/control/basico/Mestre_DetalheTDados.php on line 81
+[29-Oct-2024 11:54:41 America/Sao_Paulo] PHP Warning:  Undefined array key "responsavel_id" in /home3/sol60829/public_html/app/control/basico/Mestre_DetalheTDados.php on line 81
+[29-Oct-2024 15:52:12 America/Sao_Paulo] PHP Warning:  DOMDocument::createElement(): unterminated entity reference method=onEdit&amp;responsavel_id=1 in /home3/sol60829/public_html/app/control/admin/SystemMenuEditor.php on line 149
+[29-Oct-2024 15:58:06 America/Sao_Paulo] PHP Warning:  DOMDocument::createElement(): unterminated entity reference method=onEdit&amp;responsavel_id=1 in /home3/sol60829/public_html/app/control/admin/SystemMenuEditor.php on line 149
+[29-Oct-2024 16:19:29 America/Sao_Paulo] PHP Warning:  Undefined array key "responsavel_id" in /home3/sol60829/public_html/app/control/basico/Mestre_DetalheTDados.php on line 81
+[29-Oct-2024 16:36:37 America/Sao_Paulo] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 4096 bytes) in /home3/sol60829/public_html/lib/adianti/widget/base/TElement.php on line 262
+[29-Oct-2024 19:11:10 America/Sao_Paulo] PHP Warning:  Undefined array key "cpf" in /home3/sol60829/public_html/app/control/basico/Mestre_DetalheTeste.php on line 608
+[29-Oct-2024 19:17:55 America/Sao_Paulo] PHP Warning:  Undefined array key "cpf" in /home3/sol60829/public_html/app/control/basico/Mestre_DetalheTeste.php on line 608
+[29-Oct-2024 19:28:26 America/Sao_Paulo] PHP Warning:  Undefined array key "cpf" in /home3/sol60829/public_html/app/control/basico/Mestre_DetalheTeste.php on line 608
+[29-Oct-2024 19:33:49 America/Sao_Paulo] PHP Warning:  Undefined array key "cpf" in /home3/sol60829/public_html/app/control/basico/Mestre_DetalheTeste.php on line 657
+[29-Oct-2024 19:38:44 America/Sao_Paulo] PHP Warning:  Undefined array key "cpf" in /home3/sol60829/public_html/app/control/basico/Mestre_DetalheTeste.php on line 657
+[29-Oct-2024 19:48:26 America/Sao_Paulo] PHP Warning:  Undefined array key "cpf" in /home3/sol60829/public_html/app/control/basico/Mestre_DetalheTeste.php on line 657
+[29-Oct-2024 19:51:34 America/Sao_Paulo] PHP Warning:  Undefined array key "cpf" in /home3/sol60829/public_html/app/control/basico/Mestre_DetalheTeste.php on line 657
+[29-Oct-2024 19:53:19 America/Sao_Paulo] PHP Warning:  Undefined array key "cpf" in /home3/sol60829/public_html/app/control/basico/Mestre_DetalheTeste.php on line 657
+[29-Oct-2024 19:53:27 America/Sao_Paulo] PHP Warning:  Undefined array key "cpf" in /home3/sol60829/public_html/app/control/basico/Mestre_DetalheTeste.php on line 657
+[29-Oct-2024 19:53:36 America/Sao_Paulo] PHP Warning:  Undefined array key "cpf" in /home3/sol60829/public_html/app/control/basico/Mestre_DetalheTeste.php on line 657
+[29-Oct-2024 19:55:48 America/Sao_Paulo] PHP Warning:  Undefined array key "cpf" in /home3/sol60829/public_html/app/control/basico/Mestre_DetalheTeste.php on line 657
+[29-Oct-2024 20:01:35 America/Sao_Paulo] PHP Warning:  Undefined array key "cpf" in /home3/sol60829/public_html/app/control/basico/Mestre_DetalheTeste.php on line 657
+[29-Oct-2024 20:11:24 America/Sao_Paulo] PHP Warning:  Undefined array key "cpf" in /home3/sol60829/public_html/app/control/basico/Mestre_DetalheTeste.php on line 657
+[29-Oct-2024 22:53:05 America/Sao_Paulo] PHP Warning:  Undefined array key "cpf" in /home3/sol60829/public_html/app/control/basico/Mestre_DetalheTeste.php on line 657
+[29-Oct-2024 22:56:26 America/Sao_Paulo] PHP Warning:  Undefined array key "cpf" in /home3/sol60829/public_html/app/control/basico/Mestre_DetalheTeste.php on line 657
+[30-Oct-2024 18:24:10 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected variable "$sql" in /home3/sol60829/public_html/app/control/basico/Mestre_DetalheTeste.php on line 461
+[30-Oct-2024 18:24:22 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected variable "$sql" in /home3/sol60829/public_html/app/control/basico/Mestre_DetalheTeste.php on line 461
+[03-Nov-2024 23:08:06 America/Sao_Paulo] PHP Warning:  Undefined array key "responsavel_id" in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 80
+[03-Nov-2024 23:08:10 America/Sao_Paulo] PHP Warning:  Undefined array key "responsavel_id" in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 80
+[03-Nov-2024 23:11:20 America/Sao_Paulo] PHP Fatal error:  Uncaught Exception: Método Adianti\Control\TAction::__construct deve receber um parâmetro do tipo Callback <br> Verifique se a ação (Mestre_DetalheTDados::onReload) existe in C:\xampp\htdocs\felipe\lib\adianti\control\TAction.php:44
+Stack trace:
+#0 C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheCarteira1.php(43): Adianti\Control\TAction->__construct(Array)
+#1 [internal function]: Mestre_DetalheCarteira1::onChangeDropDown(Array)
+#2 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#3 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#4 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#5 {main}
+  thrown in C:\xampp\htdocs\felipe\lib\adianti\control\TAction.php on line 44
+[03-Nov-2024 23:11:21 America/Sao_Paulo] PHP Fatal error:  Uncaught Exception: Método Adianti\Control\TAction::__construct deve receber um parâmetro do tipo Callback <br> Verifique se a ação (Mestre_DetalheTDados::onReload) existe in C:\xampp\htdocs\felipe\lib\adianti\control\TAction.php:44
+Stack trace:
+#0 C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheCarteira1.php(43): Adianti\Control\TAction->__construct(Array)
+#1 [internal function]: Mestre_DetalheCarteira1::onChangeDropDown(Array)
+#2 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#3 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#4 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#5 {main}
+  thrown in C:\xampp\htdocs\felipe\lib\adianti\control\TAction.php on line 44
+[03-Nov-2024 23:15:46 America/Sao_Paulo] PHP Warning:  Undefined array key "responsavel_id" in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 81
+[03-Nov-2024 23:16:09 America/Sao_Paulo] PHP Warning:  Undefined array key "responsavel_id" in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 81
+[03-Nov-2024 23:16:18 America/Sao_Paulo] PHP Warning:  Undefined array key "responsavel_id" in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 81
+[03-Nov-2024 23:31:02 America/Sao_Paulo] PHP Warning:  Undefined array key "responsavel_id" in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 81
+[03-Nov-2024 23:31:41 America/Sao_Paulo] PHP Warning:  Undefined array key "responsavel_id" in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 81
+[03-Nov-2024 23:32:19 America/Sao_Paulo] PHP Warning:  Undefined array key "responsavel_id" in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 81
+[03-Nov-2024 23:33:21 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected identifier "    ", expecting ";" or "{" in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 926
+[04-Nov-2024 04:50:10 America/Sao_Paulo] PHP Warning:  Undefined array key "responsavel_id" in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 81
+[04-Nov-2024 06:04:35 America/Sao_Paulo] PHP Warning:  Undefined array key "responsavel_id" in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 81
+[04-Nov-2024 06:29:20 America/Sao_Paulo] PHP Warning:  Undefined variable $lead_id in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 203
+[04-Nov-2024 06:44:07 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected variable "$vbox" in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 780
+[04-Nov-2024 06:55:41 America/Sao_Paulo] PHP Warning:  Undefined variable $notebook3 in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 799
+[04-Nov-2024 07:07:10 America/Sao_Paulo] PHP Warning:  Undefined array key "responsavel_id" in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 81
+[04-Nov-2024 07:08:06 America/Sao_Paulo] PHP Warning:  Undefined array key "responsavel_id" in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 81
+[04-Nov-2024 07:08:06 America/Sao_Paulo] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\felipe\lib\adianti\database\TRecord.php on line 780
+[04-Nov-2024 07:12:14 America/Sao_Paulo] PHP Warning:  Undefined variable $flag_descontinuar in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 795
+[04-Nov-2024 07:12:48 America/Sao_Paulo] PHP Warning:  Undefined array key "responsavel_id" in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 81
+[04-Nov-2024 07:12:48 America/Sao_Paulo] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\felipe\lib\adianti\database\TRecord.php on line 780
+[04-Nov-2024 07:14:45 America/Sao_Paulo] PHP Warning:  Undefined array key "responsavel_id" in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 81
+[04-Nov-2024 07:16:33 America/Sao_Paulo] PHP Warning:  Undefined array key "responsavel_id" in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 81
+[04-Nov-2024 07:16:56 America/Sao_Paulo] PHP Warning:  Undefined array key "responsavel_id" in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 81
+[04-Nov-2024 07:18:51 America/Sao_Paulo] PHP Warning:  Undefined array key "responsavel_id" in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 81
+[04-Nov-2024 07:19:48 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in C:\xampp\htdocs\felipe\lib\adianti\wrapper\BootstrapFormBuilder.php on line 961
+[04-Nov-2024 07:19:48 America/Sao_Paulo] PHP Warning:  Undefined array key 1 in C:\xampp\htdocs\felipe\lib\adianti\wrapper\BootstrapFormBuilder.php on line 962
+[04-Nov-2024 07:19:48 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in C:\xampp\htdocs\felipe\lib\adianti\wrapper\BootstrapFormBuilder.php on line 961
+[04-Nov-2024 07:19:48 America/Sao_Paulo] PHP Warning:  Undefined array key 1 in C:\xampp\htdocs\felipe\lib\adianti\wrapper\BootstrapFormBuilder.php on line 962
+[04-Nov-2024 07:19:48 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in C:\xampp\htdocs\felipe\lib\adianti\wrapper\BootstrapFormBuilder.php on line 961
+[04-Nov-2024 07:19:48 America/Sao_Paulo] PHP Warning:  Undefined array key 1 in C:\xampp\htdocs\felipe\lib\adianti\wrapper\BootstrapFormBuilder.php on line 962
+[04-Nov-2024 07:19:48 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in C:\xampp\htdocs\felipe\lib\adianti\wrapper\BootstrapFormBuilder.php on line 961
+[04-Nov-2024 07:19:48 America/Sao_Paulo] PHP Warning:  Undefined array key 1 in C:\xampp\htdocs\felipe\lib\adianti\wrapper\BootstrapFormBuilder.php on line 962
+[04-Nov-2024 07:21:06 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in C:\xampp\htdocs\felipe\lib\adianti\wrapper\BootstrapFormBuilder.php on line 961
+[04-Nov-2024 07:21:06 America/Sao_Paulo] PHP Warning:  Undefined array key 1 in C:\xampp\htdocs\felipe\lib\adianti\wrapper\BootstrapFormBuilder.php on line 962
+[04-Nov-2024 07:21:06 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in C:\xampp\htdocs\felipe\lib\adianti\wrapper\BootstrapFormBuilder.php on line 961
+[04-Nov-2024 07:21:06 America/Sao_Paulo] PHP Warning:  Undefined array key 1 in C:\xampp\htdocs\felipe\lib\adianti\wrapper\BootstrapFormBuilder.php on line 962
+[04-Nov-2024 07:21:06 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in C:\xampp\htdocs\felipe\lib\adianti\wrapper\BootstrapFormBuilder.php on line 961
+[04-Nov-2024 07:21:06 America/Sao_Paulo] PHP Warning:  Undefined array key 1 in C:\xampp\htdocs\felipe\lib\adianti\wrapper\BootstrapFormBuilder.php on line 962
+[04-Nov-2024 07:21:06 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in C:\xampp\htdocs\felipe\lib\adianti\wrapper\BootstrapFormBuilder.php on line 961
+[04-Nov-2024 07:21:06 America/Sao_Paulo] PHP Warning:  Undefined array key 1 in C:\xampp\htdocs\felipe\lib\adianti\wrapper\BootstrapFormBuilder.php on line 962
+[04-Nov-2024 16:13:24 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected variable "$this" in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 794
+[04-Nov-2024 16:13:29 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected identifier "ç" in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 793
+[04-Nov-2024 16:13:38 America/Sao_Paulo] PHP Warning:  Undefined variable $btn_onsave in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 803
+[04-Nov-2024 16:13:38 America/Sao_Paulo] PHP Warning:  Undefined variable $btn_onsave in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 804
+[04-Nov-2024 16:13:38 America/Sao_Paulo] PHP Warning:  Undefined variable $btn_onsave in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 805
+[04-Nov-2024 16:15:48 America/Sao_Paulo] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\felipe\lib\adianti\wrapper\BootstrapFormBuilder.php on line 761
+[04-Nov-2024 16:16:14 America/Sao_Paulo] PHP Warning:  Undefined variable $flag_descontinuar in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 790
+[04-Nov-2024 16:16:33 America/Sao_Paulo] PHP Warning:  Undefined variable $flag_descontinuar in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 790
+[04-Nov-2024 16:16:41 America/Sao_Paulo] PHP Warning:  Undefined variable $flag_descontinuar in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 790
+[04-Nov-2024 16:17:07 America/Sao_Paulo] PHP Warning:  Undefined variable $flag_descontinuar in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 790
+[04-Nov-2024 16:17:11 America/Sao_Paulo] PHP Warning:  Undefined variable $flag_descontinuar in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 790
+[04-Nov-2024 16:17:14 America/Sao_Paulo] PHP Warning:  Undefined array key "responsavel_id" in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 81
+[04-Nov-2024 16:17:14 America/Sao_Paulo] PHP Warning:  Undefined variable $flag_descontinuar in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 790
+[04-Nov-2024 16:17:17 America/Sao_Paulo] PHP Warning:  Undefined variable $flag_descontinuar in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 790
+[04-Nov-2024 16:17:21 America/Sao_Paulo] PHP Warning:  Undefined variable $flag_descontinuar in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 790
+[04-Nov-2024 16:17:24 America/Sao_Paulo] PHP Warning:  Undefined variable $flag_descontinuar in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 790
+[04-Nov-2024 16:17:35 America/Sao_Paulo] PHP Warning:  Undefined variable $flag_descontinuar in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 790
+[04-Nov-2024 16:18:28 America/Sao_Paulo] PHP Warning:  Undefined variable $btn_onsave in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 803
+[04-Nov-2024 16:18:28 America/Sao_Paulo] PHP Warning:  Undefined variable $btn_onsave in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 804
+[04-Nov-2024 16:18:28 America/Sao_Paulo] PHP Warning:  Undefined variable $btn_onsave in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 805
+[04-Nov-2024 16:18:56 America/Sao_Paulo] PHP Warning:  Undefined variable $btn_onsave in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 803
+[04-Nov-2024 16:18:56 America/Sao_Paulo] PHP Warning:  Undefined variable $btn_onsave in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 804
+[04-Nov-2024 16:18:56 America/Sao_Paulo] PHP Warning:  Undefined variable $btn_onsave in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 805
+[04-Nov-2024 16:19:39 America/Sao_Paulo] PHP Warning:  Undefined variable $btn_onsave in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 803
+[04-Nov-2024 16:19:39 America/Sao_Paulo] PHP Warning:  Undefined variable $btn_onsave in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 804
+[04-Nov-2024 16:19:39 America/Sao_Paulo] PHP Warning:  Undefined variable $btn_onsave in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 805
+[04-Nov-2024 16:19:58 America/Sao_Paulo] PHP Warning:  Undefined variable $btn_onsave in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 803
+[04-Nov-2024 16:19:58 America/Sao_Paulo] PHP Warning:  Undefined variable $btn_onsave in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 804
+[04-Nov-2024 16:19:58 America/Sao_Paulo] PHP Warning:  Undefined variable $btn_onsave in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 805
+[04-Nov-2024 16:20:04 America/Sao_Paulo] PHP Warning:  Undefined variable $btn_onsave in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 803
+[04-Nov-2024 16:20:04 America/Sao_Paulo] PHP Warning:  Undefined variable $btn_onsave in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 804
+[04-Nov-2024 16:20:04 America/Sao_Paulo] PHP Warning:  Undefined variable $btn_onsave in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 805
+[04-Nov-2024 16:21:44 America/Sao_Paulo] PHP Warning:  Undefined array key "responsavel_id" in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 81
+[04-Nov-2024 16:23:21 America/Sao_Paulo] PHP Warning:  Undefined array key "responsavel_id" in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 81
+[04-Nov-2024 16:23:46 America/Sao_Paulo] PHP Warning:  Undefined array key "responsavel_id" in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 81
+[04-Nov-2024 16:24:15 America/Sao_Paulo] PHP Warning:  Undefined array key "responsavel_id" in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 81
+[04-Nov-2024 16:26:04 America/Sao_Paulo] PHP Warning:  Undefined array key "responsavel_id" in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 81
+[04-Nov-2024 16:26:58 America/Sao_Paulo] PHP Warning:  Undefined array key "responsavel_id" in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 81
+[04-Nov-2024 16:28:49 America/Sao_Paulo] PHP Warning:  Undefined array key "responsavel_id" in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 81
+[04-Nov-2024 16:30:21 America/Sao_Paulo] PHP Warning:  Undefined array key "responsavel_id" in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 81
+[04-Nov-2024 16:51:20 America/Sao_Paulo] PHP Warning:  Undefined array key "responsavel_id" in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 81
+[04-Nov-2024 16:51:28 America/Sao_Paulo] PHP Warning:  Undefined array key "responsavel_id" in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 81
+[04-Nov-2024 16:59:33 America/Sao_Paulo] PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\felipe\lib\adianti\wrapper\BootstrapFormBuilder.php on line 1023
+[04-Nov-2024 16:59:39 America/Sao_Paulo] PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\felipe\lib\adianti\wrapper\BootstrapFormBuilder.php on line 1023
+[04-Nov-2024 17:01:13 America/Sao_Paulo] PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\felipe\lib\adianti\wrapper\BootstrapFormBuilder.php on line 1023
+[04-Nov-2024 17:08:05 America/Sao_Paulo] PHP Warning:  Undefined array key "responsavel_id" in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 81
+[04-Nov-2024 17:09:22 America/Sao_Paulo] PHP Warning:  Undefined array key "responsavel_id" in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 81
+[04-Nov-2024 17:10:36 America/Sao_Paulo] PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\felipe\lib\adianti\wrapper\BootstrapFormBuilder.php on line 1023
+[04-Nov-2024 17:11:40 America/Sao_Paulo] PHP Warning:  Undefined array key "responsavel_id" in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 81
+[04-Nov-2024 20:52:04 America/Sao_Paulo] PHP Warning:  Undefined array key "responsavel_id" in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 81
+[04-Nov-2024 21:15:14 America/Sao_Paulo] PHP Warning:  Undefined array key "responsavel_id" in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 81
+[04-Nov-2024 21:37:42 America/Sao_Paulo] PHP Warning:  Undefined array key "responsavel_id" in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 81
+[10-Nov-2024 14:18:04 America/Sao_Paulo] PHP Warning:  Attempt to read property "id" on null in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 925
+[26-Nov-2024 01:01:57 America/Sao_Paulo] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function SystemProgramForm::__construct(), 0 passed in C:\xampp\htdocs\felipe\lib\adianti\control\TPage.php on line 104 and exactly 1 expected in C:\xampp\htdocs\felipe\app\control\admin\SystemProgramForm.php:30
+Stack trace:
+#0 C:\xampp\htdocs\felipe\lib\adianti\control\TPage.php(104): SystemProgramForm->__construct()
+#1 C:\xampp\htdocs\felipe\lib\adianti\control\TPage.php(269): Adianti\Control\TPage->run()
+#2 C:\xampp\htdocs\felipe\app\control\basico\ListaNomesPage.php(58): Adianti\Control\TPage->show()
+#3 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiApplicationLoader.php(109): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreLoader.php(78): Adianti\Core\AdiantiApplicationLoader::autoload('ListaNomesPage')
+#5 [internal function]: Adianti\Core\AdiantiCoreLoader::autoload('ListaNomesPage')
+#6 C:\xampp\htdocs\felipe\app\control\admin\SystemProgramForm.php(269): ReflectionClass->__construct('ListaNomesPage')
+#7 C:\xampp\htdocs\felipe\app\control\admin\SystemProgramForm.php(255): SystemProgramForm::getActionsFromController('ListaNomesPage')
+#8 C:\xampp\htdocs\felipe\app\control\admin\SystemProgramForm.php(299): SystemProgramForm::onGetControllerMethods(Array)
+#9 [internal function]: SystemProgramForm::onChangeController(Array)
+#10 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#11 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#12 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#13 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\admin\SystemProgramForm.php on line 30
+[26-Nov-2024 01:03:55 America/Sao_Paulo] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function SystemProgramForm::__construct(), 0 passed in C:\xampp\htdocs\felipe\lib\adianti\control\TPage.php on line 104 and exactly 1 expected in C:\xampp\htdocs\felipe\app\control\admin\SystemProgramForm.php:30
+Stack trace:
+#0 C:\xampp\htdocs\felipe\lib\adianti\control\TPage.php(104): SystemProgramForm->__construct()
+#1 C:\xampp\htdocs\felipe\lib\adianti\control\TPage.php(269): Adianti\Control\TPage->run()
+#2 C:\xampp\htdocs\felipe\app\control\basico\ListaNomesPage.php(58): Adianti\Control\TPage->show()
+#3 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiApplicationLoader.php(109): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreLoader.php(78): Adianti\Core\AdiantiApplicationLoader::autoload('ListaNomesPage')
+#5 [internal function]: Adianti\Core\AdiantiCoreLoader::autoload('ListaNomesPage')
+#6 C:\xampp\htdocs\felipe\app\control\admin\SystemProgramForm.php(269): ReflectionClass->__construct('ListaNomesPage')
+#7 C:\xampp\htdocs\felipe\app\control\admin\SystemProgramForm.php(255): SystemProgramForm::getActionsFromController('ListaNomesPage')
+#8 C:\xampp\htdocs\felipe\app\control\admin\SystemProgramForm.php(299): SystemProgramForm::onGetControllerMethods(Array)
+#9 [internal function]: SystemProgramForm::onChangeController(Array)
+#10 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#11 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#12 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#13 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\admin\SystemProgramForm.php on line 30
+[26-Nov-2024 01:08:08 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Adianti\Control\TPage::getByClass() in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1184
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1184
+[26-Nov-2024 01:08:09 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Adianti\Control\TPage::getByClass() in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1184
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1184
+[26-Nov-2024 01:08:10 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Adianti\Control\TPage::getByClass() in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1184
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1184
+[26-Nov-2024 01:11:45 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Adianti\Control\TPage::getByClass() in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1184
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1184
+[26-Nov-2024 01:11:46 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Adianti\Control\TPage::getByClass() in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1184
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1184
+[26-Nov-2024 01:11:47 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Adianti\Control\TPage::getByClass() in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1184
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1184
+[26-Nov-2024 01:11:48 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Adianti\Control\TPage::getByClass() in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1184
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1184
+[26-Nov-2024 01:11:49 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Adianti\Control\TPage::getByClass() in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1184
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1184
+[26-Nov-2024 01:11:49 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Adianti\Control\TPage::getByClass() in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1184
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1184
+[26-Nov-2024 01:11:50 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Adianti\Control\TPage::getByClass() in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1184
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1184
+[26-Nov-2024 01:11:51 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Adianti\Control\TPage::getByClass() in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1184
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1184
+[26-Nov-2024 01:12:22 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Adianti\Control\TPage::getByClass() in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1184
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1184
+[26-Nov-2024 01:14:22 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Adianti\Control\TPage::getByClass() in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1184
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1184
+[26-Nov-2024 01:14:23 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Adianti\Control\TPage::getByClass() in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1184
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1184
+[26-Nov-2024 01:14:25 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Adianti\Control\TPage::getByClass() in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1184
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1184
+[26-Nov-2024 01:14:26 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Adianti\Control\TPage::getByClass() in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1184
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1184
+[26-Nov-2024 01:14:28 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Adianti\Control\TPage::getByClass() in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1184
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1184
+[26-Nov-2024 01:14:28 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Adianti\Control\TPage::getByClass() in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1184
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1184
+[26-Nov-2024 01:14:29 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Adianti\Control\TPage::getByClass() in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1184
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1184
+[26-Nov-2024 01:14:30 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Adianti\Control\TPage::getByClass() in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1184
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1184
+[26-Nov-2024 01:15:32 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Adianti\Control\TPage::getByClass() in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1184
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1184
+[26-Nov-2024 01:15:37 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Adianti\Control\TPage::getByClass() in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1184
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1184
+[26-Nov-2024 01:15:38 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Adianti\Control\TPage::getByClass() in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1184
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1184
+[26-Nov-2024 01:15:50 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Adianti\Control\TPage::getByClass() in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1184
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1184
+[26-Nov-2024 01:15:51 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Adianti\Control\TPage::getByClass() in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1184
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1184
+[26-Nov-2024 01:17:34 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Adianti\Control\TPage::getByClass() in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1184
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1184
+[26-Nov-2024 01:17:35 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Adianti\Control\TPage::getByClass() in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1184
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1184
+[26-Nov-2024 01:17:36 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Adianti\Control\TPage::getByClass() in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1184
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1184
+[26-Nov-2024 01:17:40 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Adianti\Control\TPage::getByClass() in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1184
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1184
+[26-Nov-2024 01:19:58 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Adianti\Control\TPage::getByClass() in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1184
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1184
+[26-Nov-2024 01:19:59 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Adianti\Control\TPage::getByClass() in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1184
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1184
+[26-Nov-2024 01:20:00 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Adianti\Control\TPage::getByClass() in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1184
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1184
+[26-Nov-2024 01:20:15 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Adianti\Control\TPage::getByClass() in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1184
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1184
+[26-Nov-2024 01:22:40 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Adianti\Control\TPage::getByClass() in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1184
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1184
+[26-Nov-2024 01:22:41 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Adianti\Control\TPage::getByClass() in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1184
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1184
+[26-Nov-2024 01:24:22 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Adianti\Control\TPage::getByClass() in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1184
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1184
+[26-Nov-2024 01:24:23 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Adianti\Control\TPage::getByClass() in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1184
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1184
+[26-Nov-2024 01:24:24 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Adianti\Control\TPage::getByClass() in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1184
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1184
+[26-Nov-2024 01:24:25 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Adianti\Control\TPage::getByClass() in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1184
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1184
+[26-Nov-2024 01:24:26 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Adianti\Control\TPage::getByClass() in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1184
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1184
+[26-Nov-2024 01:24:26 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Adianti\Control\TPage::getByClass() in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1184
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1184
+[26-Nov-2024 01:24:32 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Adianti\Control\TPage::getByClass() in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1184
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1184
+[26-Nov-2024 01:24:33 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Adianti\Control\TPage::getByClass() in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1184
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1184
+[26-Nov-2024 01:24:33 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Adianti\Control\TPage::getByClass() in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1184
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1184
+[26-Nov-2024 01:26:51 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Adianti\Control\TPage::getByClass() in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1184
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1184
+[26-Nov-2024 01:29:32 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected token "public" in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1219
+[26-Nov-2024 01:31:54 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected identifier "Non", expecting "function" or "const" in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1190
+[26-Nov-2024 01:32:12 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Adianti\Control\TPage::getByClass() in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1184
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1184
+[26-Nov-2024 01:36:09 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Adianti\Control\TPage::getByClass() in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1184
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1184
+[26-Nov-2024 01:36:11 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Adianti\Control\TPage::getByClass() in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1184
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1184
+[26-Nov-2024 01:36:12 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Adianti\Control\TPage::getByClass() in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1184
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1184
+[26-Nov-2024 01:36:12 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Adianti\Control\TPage::getByClass() in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1184
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1184
+[26-Nov-2024 01:36:13 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Adianti\Control\TPage::getByClass() in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1184
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1184
+[26-Nov-2024 01:36:15 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Adianti\Control\TPage::getByClass() in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1184
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1184
+[26-Nov-2024 01:36:15 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Adianti\Control\TPage::getByClass() in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1184
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1184
+[26-Nov-2024 01:36:36 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Adianti\Control\TPage::getByClass() in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1184
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1184
+[26-Nov-2024 01:36:37 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Adianti\Control\TPage::getByClass() in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1184
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1184
+[26-Nov-2024 01:36:38 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Adianti\Control\TPage::getByClass() in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1184
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1184
+[26-Nov-2024 01:36:39 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Adianti\Control\TPage::getByClass() in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1184
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1184
+[26-Nov-2024 01:36:40 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Adianti\Control\TPage::getByClass() in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1184
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1184
+[26-Nov-2024 01:36:40 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Adianti\Control\TPage::getByClass() in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1184
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1184
+[26-Nov-2024 01:36:41 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Adianti\Control\TPage::getByClass() in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1184
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1184
+[26-Nov-2024 01:36:42 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Adianti\Control\TPage::getByClass() in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1184
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1184
+[26-Nov-2024 01:38:53 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Adianti\Control\TPage::getByClass() in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1184
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1184
+[26-Nov-2024 01:38:54 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Adianti\Control\TPage::getByClass() in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1184
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1184
+[26-Nov-2024 01:38:55 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Adianti\Control\TPage::getByClass() in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1184
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1184
+[26-Nov-2024 01:42:50 America/Sao_Paulo] PHP Warning:  Undefined variable $dropdown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 39
+[26-Nov-2024 01:42:58 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Adianti\Control\TPage::getByClass() in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1185
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1185
+[26-Nov-2024 01:42:59 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Adianti\Control\TPage::getByClass() in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1185
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1185
+[26-Nov-2024 01:42:59 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Adianti\Control\TPage::getByClass() in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1185
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1185
+[26-Nov-2024 01:43:00 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Adianti\Control\TPage::getByClass() in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1185
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1185
+[26-Nov-2024 01:43:00 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Adianti\Control\TPage::getByClass() in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1185
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1185
+[26-Nov-2024 01:43:21 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Adianti\Control\TPage::getByClass() in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1185
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1185
+[26-Nov-2024 01:43:21 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Adianti\Control\TPage::getByClass() in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1185
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1185
+[26-Nov-2024 01:47:17 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Using $this when not in object context in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1187
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1187
+[26-Nov-2024 01:47:18 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Using $this when not in object context in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1187
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1187
+[26-Nov-2024 01:48:36 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Using $this when not in object context in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1186
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1186
+[26-Nov-2024 01:48:36 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Using $this when not in object context in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1186
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1186
+[26-Nov-2024 01:48:37 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Using $this when not in object context in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1186
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1186
+[26-Nov-2024 01:48:38 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Using $this when not in object context in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1186
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1186
+[26-Nov-2024 01:48:51 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Using $this when not in object context in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1186
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1186
+[26-Nov-2024 01:48:52 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Using $this when not in object context in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1186
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1186
+[26-Nov-2024 01:48:53 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Using $this when not in object context in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1186
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1186
+[26-Nov-2024 01:49:08 America/Sao_Paulo] PHP Fatal error:  Uncaught Exception: Método Adianti\Control\TAction::__construct deve receber um parâmetro do tipo Callback <br> Verifique se a ação ($this::onReload) existe in C:\xampp\htdocs\felipe\lib\adianti\control\TAction.php:44
+Stack trace:
+#0 C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php(1184): Adianti\Control\TAction->__construct(Array)
+#1 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#2 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#3 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#4 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#5 {main}
+  thrown in C:\xampp\htdocs\felipe\lib\adianti\control\TAction.php on line 44
+[26-Nov-2024 01:49:09 America/Sao_Paulo] PHP Fatal error:  Uncaught Exception: Método Adianti\Control\TAction::__construct deve receber um parâmetro do tipo Callback <br> Verifique se a ação ($this::onReload) existe in C:\xampp\htdocs\felipe\lib\adianti\control\TAction.php:44
+Stack trace:
+#0 C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php(1184): Adianti\Control\TAction->__construct(Array)
+#1 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#2 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#3 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#4 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#5 {main}
+  thrown in C:\xampp\htdocs\felipe\lib\adianti\control\TAction.php on line 44
+[26-Nov-2024 01:52:30 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Using $this when not in object context in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1186
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1186
+[26-Nov-2024 01:52:31 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Using $this when not in object context in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1186
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1186
+[26-Nov-2024 01:52:32 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Using $this when not in object context in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1186
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1186
+[26-Nov-2024 01:52:33 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Using $this when not in object context in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1186
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1186
+[26-Nov-2024 01:52:34 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Using $this when not in object context in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1186
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1186
+[26-Nov-2024 01:52:51 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Using $this when not in object context in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1186
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1186
+[26-Nov-2024 01:52:52 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Using $this when not in object context in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1186
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1186
+[26-Nov-2024 01:53:55 America/Sao_Paulo] PHP Warning:  Undefined array key "responsavel_id" in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1192
+[26-Nov-2024 01:53:55 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Adianti\Control\TAction::execute() in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1193
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1193
+[26-Nov-2024 01:53:56 America/Sao_Paulo] PHP Warning:  Undefined array key "responsavel_id" in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1192
+[26-Nov-2024 01:53:56 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Adianti\Control\TAction::execute() in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1193
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1193
+[26-Nov-2024 01:53:57 America/Sao_Paulo] PHP Warning:  Undefined array key "responsavel_id" in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1192
+[26-Nov-2024 01:53:57 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Adianti\Control\TAction::execute() in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1193
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1193
+[26-Nov-2024 01:54:51 America/Sao_Paulo] PHP Warning:  Undefined array key "responsavel_id" in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1192
+[26-Nov-2024 01:54:51 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Adianti\Control\TAction::execute() in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1193
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1193
+[26-Nov-2024 01:54:52 America/Sao_Paulo] PHP Warning:  Undefined array key "responsavel_id" in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1192
+[26-Nov-2024 01:54:52 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Adianti\Control\TAction::execute() in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1193
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1193
+[26-Nov-2024 01:54:53 America/Sao_Paulo] PHP Warning:  Undefined array key "responsavel_id" in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1192
+[26-Nov-2024 01:54:53 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Adianti\Control\TAction::execute() in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1193
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1193
+[26-Nov-2024 01:54:53 America/Sao_Paulo] PHP Warning:  Undefined array key "responsavel_id" in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1192
+[26-Nov-2024 01:54:53 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Adianti\Control\TAction::execute() in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1193
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1193
+[26-Nov-2024 01:59:47 America/Sao_Paulo] PHP Warning:  Undefined array key "responsavel_id" in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1192
+[26-Nov-2024 01:59:47 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Adianti\Control\TAction::execute() in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1193
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1193
+[26-Nov-2024 01:59:48 America/Sao_Paulo] PHP Warning:  Undefined array key "responsavel_id" in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1192
+[26-Nov-2024 01:59:48 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Adianti\Control\TAction::execute() in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1193
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1193
+[26-Nov-2024 01:59:49 America/Sao_Paulo] PHP Warning:  Undefined array key "responsavel_id" in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1192
+[26-Nov-2024 01:59:49 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Adianti\Control\TAction::execute() in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1193
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1193
+[26-Nov-2024 01:59:49 America/Sao_Paulo] PHP Warning:  Undefined array key "responsavel_id" in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1192
+[26-Nov-2024 01:59:49 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Adianti\Control\TAction::execute() in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1193
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1193
+[26-Nov-2024 01:59:50 America/Sao_Paulo] PHP Warning:  Undefined array key "responsavel_id" in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1192
+[26-Nov-2024 01:59:50 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Adianti\Control\TAction::execute() in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1193
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1193
+[26-Nov-2024 02:33:12 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected variable "$responsavelId" in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1191
+[26-Nov-2024 02:33:22 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected variable "$responsavelId" in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1191
+[26-Nov-2024 02:33:58 America/Sao_Paulo] PHP Warning:  Undefined array key "responsavelId" in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1187
+[26-Nov-2024 02:33:58 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function setParameter() on null in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1191
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1191
+[26-Nov-2024 02:34:01 America/Sao_Paulo] PHP Warning:  Undefined array key "responsavelId" in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1187
+[26-Nov-2024 02:34:01 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function setParameter() on null in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1191
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1191
+[26-Nov-2024 02:38:13 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Using $this when not in object context in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1204
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1204
+[26-Nov-2024 02:38:15 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Using $this when not in object context in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1204
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1204
+[26-Nov-2024 02:38:16 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Using $this when not in object context in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1204
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1204
+[26-Nov-2024 02:38:17 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Using $this when not in object context in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1204
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1204
+[26-Nov-2024 02:38:17 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Using $this when not in object context in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1204
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1204
+[26-Nov-2024 02:38:18 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Using $this when not in object context in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1204
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1204
+[26-Nov-2024 02:38:19 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Using $this when not in object context in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1204
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1204
+[26-Nov-2024 02:38:20 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Using $this when not in object context in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1204
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1204
+[26-Nov-2024 02:41:15 America/Sao_Paulo] PHP Warning:  Undefined array key "responsavel_id" in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 102
+[26-Nov-2024 11:28:18 America/Sao_Paulo] PHP Warning:  Undefined array key "responsavel_id" in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 102
+[26-Nov-2024 11:28:22 America/Sao_Paulo] PHP Warning:  Undefined array key "responsavel_id" in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 102
+[26-Nov-2024 11:28:26 America/Sao_Paulo] PHP Warning:  Undefined array key "responsavel_id" in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 102
+[26-Nov-2024 11:30:46 America/Sao_Paulo] PHP Warning:  Undefined array key "responsavel_id" in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 102
+[26-Nov-2024 11:33:38 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Non-static method Adianti\Widget\Base\TElement::add() cannot be called statically in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1227
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1227
+[26-Nov-2024 11:33:39 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Non-static method Adianti\Widget\Base\TElement::add() cannot be called statically in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1227
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1227
+[26-Nov-2024 11:33:40 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Non-static method Adianti\Widget\Base\TElement::add() cannot be called statically in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1227
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1227
+[26-Nov-2024 11:33:40 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Non-static method Adianti\Widget\Base\TElement::add() cannot be called statically in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php:1227
+Stack trace:
+#0 [internal function]: Mestre_DetalheTeste::onFilterChange(Array)
+#1 C:\xampp\htdocs\felipe\lib\adianti\core\AdiantiCoreApplication.php(82): call_user_func(Array, Array)
+#2 C:\xampp\htdocs\felipe\engine.php(56): Adianti\Core\AdiantiCoreApplication::run('0')
+#3 C:\xampp\htdocs\felipe\engine.php(108): TApplication::run()
+#4 {main}
+  thrown in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1227
+[26-Nov-2024 11:40:30 America/Sao_Paulo] PHP Warning:  Undefined array key "responsavel_id" in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1189
+[26-Nov-2024 11:41:59 America/Sao_Paulo] PHP Warning:  Undefined array key "responsavel_id" in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1189
+[26-Nov-2024 11:42:21 America/Sao_Paulo] PHP Warning:  Undefined array key "responsavel_id" in C:\xampp\htdocs\felipe\app\control\basico\Mestre_DetalheTeste.php on line 1195
